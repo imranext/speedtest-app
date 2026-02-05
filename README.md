@@ -309,7 +309,7 @@ This project is licensed under the **MIT License** - see LICENSE file for detail
 **ImranX**
 - Website: [imran.pro.bd](https://imran.pro.bd)
 - GitHub: [@imranext](https://github.com/imranext)
-- Email: imran@imran.pro.bd
+- Email: hi@imran.pro.bd
 
 ---
 
@@ -329,7 +329,7 @@ Contributions are welcome! Please follow these steps:
 
 For issues and questions:
 - GitHub Issues: [speedtest-app/issues](https://github.com/imranext/speedtest-app/issues)
-- Email: imran@imran.pro.bd
+- Email: hi@imran.pro.bd
 
 ---
 
