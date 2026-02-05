@@ -1,0 +1,5 @@
+{
+  "name": "SpeedX",
+  "description": "A high-performance internet speed test application featuring real-time network metrics and AI-powered connection insights.",
+  "requestFramePermissions": []
+}
